@@ -1,6 +1,2 @@
 
-![[Imagen9.png]]
-
-```ruby
-
-```
+![](../../Imagenes/Imagen9.png)
