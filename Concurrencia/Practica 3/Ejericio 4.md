@@ -105,9 +105,3 @@ comenzar
   Iniciar(coordinador,1,1)
 fin
 ```
-no compila, no se porque.
-
-### c.
-
-La concurrencia la máxima la segunda opción, ya que el proceso de bloquear y moverse a la esquina 11,11 tendría que estar dentro del bloquear esquina de la 10,10
-poniendo líneas extra que mantienen bloqueada la esquina impidiendo el paso de otros robots.
