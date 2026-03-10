@@ -1,5 +1,5 @@
 
-![[Imagen8.png]]
+![](../../Imagenes/Imagen8.png)
 
 ```ruby
 programa ejercicio4
