@@ -1,5 +1,7 @@
 
+
 ![](../Imagenes/Imagen6.png)
+
 
 ```Pascal
 program 2025_febrero;
