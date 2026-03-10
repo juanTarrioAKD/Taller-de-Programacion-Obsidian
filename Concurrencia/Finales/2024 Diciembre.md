@@ -1,5 +1,5 @@
 
-![[Pasted image 20251113011040.png]]
+![[Imagen9.png]]
 
 ```ruby
 

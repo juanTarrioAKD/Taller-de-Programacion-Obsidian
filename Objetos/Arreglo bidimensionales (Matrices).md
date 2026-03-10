@@ -4,7 +4,7 @@
 - Esta estructura de datos compuesta permite acceder a cada componente utilizando dos indices (fila y columna) que permite ubicar un elemento dentro de la estructura.
 - Sus elementos pueden int, double, char, bool, u otros objetos.
    
-![[Pasted image 20251104232640.png]]
+![[Imagen3.png]]
 
 ### **Caracteristicas:**
 

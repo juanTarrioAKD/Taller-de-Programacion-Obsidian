@@ -1,5 +1,5 @@
 
-![[Pasted image 20251112221542.png]]
+![[Imagen8.png]]
 
 ```ruby
 programa ejercicio4

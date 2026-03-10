@@ -1,5 +1,5 @@
 
-![[Pasted image 20251112200200.png]]
+![[Imagen6.png]]
 
 ```Pascal
 program 2025_febrero;
