@@ -1,5 +1,5 @@
 
-![[Imagen5.png]]
+![](../../Imagenes/Imagen5.png)
 
 ```pascal
 program 2025_junio;
