@@ -5,7 +5,7 @@
 		en caso de no estar oredenado va a ser una arbol binario, pero no un arbol binario de busqueda.
 	Ejemplo arbol binario de busqueda:
 
-![[Imagen2.png]]
+![](Imagenes/Imagen2.png)
 
 . Como se ve en la imagen todos los hijos izquierdos de la raiz (15) son menores a la misma y los derechos son mayores. Esto tambien depende de como se van leyendo los datos a la hora de la carga del arbol, dependiendo el orden puede quedar de 1 forma o otra. En este caso la raiz (el primer valor que se leyo) fue 15 por lo tanto quedo equilibrado al venir 3 valores menores y 3 valores mayores.
 
